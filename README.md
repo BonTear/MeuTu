@@ -8,6 +8,6 @@
 * Easy and Simple to Use!
 ***
 # NOTE
-> The Download Starting Process can Sometimes be Slow to Get the Best Audio Quality. In Such Cases Please be Patient.
+> The Download Starting Process can Sometimes be a Bit Slow to Get the Best Audio Quality. In Such Cases Please be Patient.
 ***
 # Thank You! Enjoy!!😊
