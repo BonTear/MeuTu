@@ -2,7 +2,7 @@
 > A Tool to Download and Convert a YouTube PlayList or a Single Video to MP3
 ***
 # Dependencies
-Please Do Install the Font Provided.
+> Please Do Install the Font Provided.
 ***
 # Features
 * Single Video to MP3
