@@ -2,6 +2,7 @@
 > A Tool to Download and Convert a YouTube PlayList or a Single Video to MP3
 ***
 # Features
+* Plug and Play
 * Single Video to MP3
 * PlayList to MP3
 * No Duration Limit
