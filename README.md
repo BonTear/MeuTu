@@ -12,6 +12,6 @@
 > To Get the Best Audio Quality the Download can be a bit Slow Sometimes. In Such Cases Please be Patient.
 ***
 # Preview
-![preview](https://user-images.githubusercontent.com/73626726/162634113-70d5bb88-1828-49db-a46f-f00e5a4fb074.png)
+![preview](https://user-images.githubusercontent.com/73626726/175076678-8bc5b11d-c1e5-4476-8f63-11fce746c3d5.png)
 ***
 # Thank You! Enjoy!!😊
